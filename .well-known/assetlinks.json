@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ghostcreativ.devfixedtechnicianapp",
+    "sha256_cert_fingerprints":
+    ["A5:C7:40:27:2E:5D:50:4C:6D:A9:C7:2A:E8:76:CF:3A:6E:86:C1:53:0B:EE:59:E1:D6:D2:95:10:C4:45:6C:E3"]
+  }
+}]
